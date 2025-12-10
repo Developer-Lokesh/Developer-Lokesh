@@ -1,29 +1,29 @@
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<!-- Row 1 -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
+<p align="center">
+  <strong>Name:</strong> Lokesh Kashyap <br/>
+  <strong>Profession:</strong> Full-Stack Developer | BCA Student | Gymnastics & Tricking Athlete <br/>
+  <strong>Email:</strong> <a href="mailto:9027410147lk@gmail.com">9027410147lk@gmail.com</a> <br/>
+  <strong>Phone:</strong> +91 90274 10147 <br/>
+  <strong>Location:</strong> Moradabad, Uttar Pradesh, India
 </p>
 
-<!-- Row 2 -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="50" height="50" style="border:2px solid #ddd; border-radius:10px; padding:4px; margin:5px;" />
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/lokesh-kashyap9027" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/lokesh_kashyap_2790" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://fb.com/lokesh kashyap" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/lokesh08914" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
 </p>
