@@ -41,68 +41,68 @@
 <!-- SKILLS ROW 1 -->
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
 </p>
 
 <!-- SKILLS ROW 2 -->
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img style="border:2px solid #555; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40"/>
   </a>
 </p>
 
