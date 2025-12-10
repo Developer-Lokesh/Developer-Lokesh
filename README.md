@@ -41,7 +41,7 @@
 <!-- SKILLS ROW 1 -->
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+    <img style="border:2px solid blue; padding:4px; border-radius:8px; background-color: gray;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img style="border:2px solid blue; padding:4px; border-radius:8px;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" height="40"/>
